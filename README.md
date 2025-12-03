@@ -35,9 +35,10 @@ titanic-survival/
 │   └── processed/        # Cleaned and engineered features
 ├── notebooks/
 │   ├── 01_EDA.ipynb     # Exploratory Data Analysis
-│   ├── 02_feature_engineering.ipynb
-│   ├── 03_model_training.ipynb
-│   └── 04_model_evaluation.ipynb
+    ├── 02_preprocessing.ipynb
+│   ├── 03_feature_engineering.ipynb
+│   ├── 04_model_training.ipynb
+│   └── 05_model_evaluation.ipynb
 ├── src/
 │   ├── data_processing.py
 │   ├── feature_engineering.py
